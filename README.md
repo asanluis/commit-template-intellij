@@ -2,7 +2,7 @@
 
 This plugin provides a commit template for Intellij version 2018.1.4 or greater.
 
-![alt text](https://imgur.com/7rhnuvq)
+![alt text](https://imgur.com/7rhnuvq.png)
 
 ## Getting started
 
