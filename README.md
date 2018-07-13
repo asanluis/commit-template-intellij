@@ -2,6 +2,8 @@
 
 This plugin provides a commit template for Intellij version 2018.1.4 or greater.
 
+![alt text](https://imgur.com/7rhnuvq)
+
 ## Getting started
 
 1. Download the latest release from this repository (https://github.com/asanluis/commit-template-intellij/releases).

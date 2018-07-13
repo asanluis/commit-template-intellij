@@ -4,7 +4,7 @@
     <vendor email="a.sanluis@hocelot.com" url="http://www.hocelot.com">Hocelot</vendor>
 
     <description>
-        Project to commit with Hocelot template example.
+        Plugin to commit with Hocelot template example.
     </description>
 
     <depends>com.intellij.modules.lang</depends>
