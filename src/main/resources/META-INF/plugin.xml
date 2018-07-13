@@ -1,0 +1,25 @@
+<idea-plugin>
+    <id>org.hocelot.git.commit-template</id>
+    <name>Hocelot commit template</name>
+    <vendor email="a.sanluis@hocelot.com" url="http://www.hocelot.com">Hocelot</vendor>
+
+    <description>
+        Project to commit with Hocelot template example.
+    </description>
+
+    <depends>com.intellij.modules.lang</depends>
+    <depends>Git4Idea</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+
+    </extensions>
+
+    <actions>
+        <action id="git-commit-message-plugin.OpenPanelAction" class="org.hocelot.git.actions.OpenPanelAction"
+                text="Commit message dialog"
+                description="Commit message dialog"
+                icon="AllIcons.Actions.EditSource" >
+            <add-to-group group-id="Vcs.MessageActionGroup" anchor="first"/>
+        </action>
+    </actions>
+</idea-plugin>
